@@ -1,4 +1,5 @@
 #!/bin/bash
+# Usage example at https://thesyswhiz.com/automate-wordpress-backup-on-google-drive-with-bash
 
 WPDIR="/var/www/html/wordpress"
 DB_NAME="wordpress_db"
