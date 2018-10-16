@@ -3,6 +3,8 @@
 # Replace the website domain name and the email address in the script.
 # Create a cron job to run the script periodically to check the status of your website.
 # If the site is not accesible, you will receive notifiaction via email. 
+# For more information visit: https://thesyswhiz.com/check-if-wordpress-website-is-up-with-bash/
+
 
 WEBSITE="domain.com"
 EMAIL="username@domain.com"
